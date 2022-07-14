@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\struct_kavrami_dikdortgen\bin\Debug\net6.0\struct_kavrami_dikdortgen.exe
+C:\Users\Turku\Desktop\Pratikler\struct_kavrami_dikdortgen\bin\Debug\net6.0\struct_kavrami_dikdortgen.deps.json
+C:\Users\Turku\Desktop\Pratikler\struct_kavrami_dikdortgen\bin\Debug\net6.0\struct_kavrami_dikdortgen.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\struct_kavrami_dikdortgen\bin\Debug\net6.0\struct_kavrami_dikdortgen.dll
+C:\Users\Turku\Desktop\Pratikler\struct_kavrami_dikdortgen\bin\Debug\net6.0\struct_kavrami_dikdortgen.pdb
+C:\Users\Turku\Desktop\Pratikler\struct_kavrami_dikdortgen\obj\Debug\net6.0\struct_kavrami_dikdortgen.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\struct_kavrami_dikdortgen\obj\Debug\net6.0\struct_kavrami_dikdortgen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\struct_kavrami_dikdortgen\obj\Debug\net6.0\struct_kavrami_dikdortgen.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\struct_kavrami_dikdortgen\obj\Debug\net6.0\struct_kavrami_dikdortgen.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\struct_kavrami_dikdortgen\obj\Debug\net6.0\struct_kavrami_dikdortgen.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\struct_kavrami_dikdortgen\obj\Debug\net6.0\struct_kavrami_dikdortgen.dll
+C:\Users\Turku\Desktop\Pratikler\struct_kavrami_dikdortgen\obj\Debug\net6.0\refint\struct_kavrami_dikdortgen.dll
+C:\Users\Turku\Desktop\Pratikler\struct_kavrami_dikdortgen\obj\Debug\net6.0\struct_kavrami_dikdortgen.pdb
+C:\Users\Turku\Desktop\Pratikler\struct_kavrami_dikdortgen\obj\Debug\net6.0\struct_kavrami_dikdortgen.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\struct_kavrami_dikdortgen\obj\Debug\net6.0\ref\struct_kavrami_dikdortgen.dll
